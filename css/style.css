@@ -2,9 +2,7 @@ td, th {
 	border: 1px solid;
   }
   
-headers {
-font-style: italic;
-font-size: 20px;
-text-align: center;
+#planets {
+text-align:center;
 }
   
