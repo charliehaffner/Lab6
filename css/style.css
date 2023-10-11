@@ -2,14 +2,10 @@ td, th {
 	border: 1px solid;
   }
 
-h1 {
-text-align:center;
-}
-
 #Planets {
-text-align:center;
+text-align: center;
 }
 
-.headers {
-font-style:italic;
+td {
+text-align: center;
 }
