@@ -6,7 +6,18 @@ td, th {
 text-align: center;
 }
 
-.Headers {
-font-style: italic;
-color: lightblue;
+.Earth {
+color:lightblue;
+}
+
+.Mars {
+color:red;
+}
+
+.Jupiter {
+color:brown;
+}
+
+.Uranus {
+color:darkblue;
 }
