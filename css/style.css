@@ -6,6 +6,7 @@ td, th {
 text-align: center;
 }
 
-th {
+.Headers {
 font-style: italic;
+color: lightblue;
 }
