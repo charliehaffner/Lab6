@@ -12,14 +12,10 @@ font-style:underline;
 color:orange;
 }
 
-table{
-margin-left: auto; 
-margin-right: auto;
-}
-}
-
 #Planets {
 text-align: center;
+margin-left: auto;
+margin-right: auto;
 }
 
 .Earth {
