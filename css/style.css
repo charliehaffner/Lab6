@@ -6,7 +6,7 @@ td, th {
 text-align: center;
 }
 
-table > tr > th .Earth {
+.Earth {
 color:lightblue;
 }
 
